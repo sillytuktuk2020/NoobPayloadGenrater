@@ -18,7 +18,7 @@
 
 <a href="https://github.com/SillyTuktuk"><img title="Author" src="https://img.shields.io/badge/Creat%20by-Sillytuktuk2020-yellowgreen?style=for-the-badge&logo=github"></a>
 
-<a href="#"><img title="NOOB PAYLOAD" src="https://img.shields.io/badge/NoobPayloadGenrater-Creat%20you%20Payload%20link-orange?style=for-the-badge"></a>
+<a href="#"><img title="NOOB PAYLOAD" src="https://img.shields.io/badge/NoobPayloadGenrater-Creat%20your%20Payload%20l-orange?style=for-the-badge"></a>
 
 </p>
 
