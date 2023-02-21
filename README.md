@@ -18,7 +18,7 @@
 
 <a href="https://github.com/SillyTuktuk"><img title="Author" src="https://img.shields.io/badge/Creat%20by-Sillytuktuk2020-yellowgreen?style=for-the-badge&logo=github"></a>
 
-<a href="#"><img title="NOOB PAYLOAD" src="https://img.shields.io/badge/NoobPayloadGenrater-Creat%20your%20Payload%20l-orange?style=for-the-badge"></a>
+<a href="#"><img title="NOOB PAYLOAD" src="https://img.shields.io/badge/NoobPayloadGenrater-Creat%20your%20Payload%20-orange?style=for-the-badge"></a>
 
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://github.com/sillytuktuk2020/NoobPayloadGenrater/blob/master/IMG_20230220_225840.jpg"/>
+<img src="https://github.com/sillytuktuk2020/NoobPayloadGenrater/blob/master/IMG_Logo.jpg"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
